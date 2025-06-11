@@ -1,0 +1,6 @@
+@Tutorial10.RestAPI_HostAddress = http://localhost:5258
+
+GET {{Tutorial10.RestAPI_HostAddress}}/api/departments/
+Accept: application/json
+
+###

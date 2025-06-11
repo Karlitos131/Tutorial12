@@ -1,0 +1,13 @@
+@Tutorial10.RestAPI_HostAddress = http://localhost:5258
+
+POST {{Tutorial10.RestAPI_HostAddress}}/api/employees
+Content-Type: application/json
+
+{
+  "name": "ROBERT",
+  "jobId": 1,
+  "hireDate": "2025-05-16T07:10:43.515Z",
+  "salary": 35000,
+  "commission": 100,
+  "departmentId": 2
+}

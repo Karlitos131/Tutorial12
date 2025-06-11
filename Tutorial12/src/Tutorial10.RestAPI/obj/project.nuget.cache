@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ynDNmh0MkN4=",
+  "dgSpecHash": "vMjqqq5v8oI=",
   "success": true,
-  "projectFilePath": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj",
+  "projectFilePath": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj",
   "expectedPackageFiles": [
     "/Users/franciszeksztupecki/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/franciszeksztupecki/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/franciszeksztupecki/RiderProjects/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj": {}
+    "/Users/franciszeksztupecki/RiderProjects/Tutorial12/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj": {}
   },
   "projects": {
-    "/Users/franciszeksztupecki/RiderProjects/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj": {
+    "/Users/franciszeksztupecki/RiderProjects/Tutorial12/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj",
+        "projectUniqueName": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj",
         "projectName": "Tutorial10.RestAPI",
-        "projectPath": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj",
+        "projectPath": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/Tutorial12/src/Tutorial10.RestAPI/Tutorial10.RestAPI.csproj",
         "packagesPath": "/Users/franciszeksztupecki/.nuget/packages/",
-        "outputPath": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/src/Tutorial10.RestAPI/obj/",
+        "outputPath": "/Users/franciszeksztupecki/RiderProjects/Tutorial12/Tutorial12/src/Tutorial10.RestAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/franciszeksztupecki/.nuget/NuGet/NuGet.Config"

@@ -7,7 +7,7 @@ Create your own `appsettings.json` in the root directory and provide the followi
 ```json
 {
   "ConnectionStrings": {
-    "Default": "Server=localhost,1433;Database=YourDatabase;User Id=sa;Password=YourStrong!Password;"
+    "Default": "Server=server,1433;Database=Database;User Id=sa;Password=Password;"
   }
 }
 ```
